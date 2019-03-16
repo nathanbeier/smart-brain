@@ -5,7 +5,7 @@ class Signin extends React.Component {
     super(props);
     this.state = {
       signInEmail: '',
-      signInPassword: ''
+      signInPassword: '',
     }
   }
 
